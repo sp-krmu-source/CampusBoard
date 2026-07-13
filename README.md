@@ -107,7 +107,7 @@ execute function notify_all_users_on_new_notice();
 ```
 
 ## 4. Enable Realtime
-In Supabase Dashboard → **Database → Replication**, turn on replication for
+In Supabase Dashboard → **Database → Publication**, turn on replication for
 the `notices` and `notifications` tables (toggle them on in the list of
 tables under "supabase_realtime" publication).
 

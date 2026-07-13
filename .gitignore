@@ -24,3 +24,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+cat > .gitignore << 'EOF'
+
+
+EOF
